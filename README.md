@@ -15,7 +15,11 @@ My journey as a professional software engineer taught me that technical skills a
 </div>
 
 ## Development Time
+<<<<<<< HEAD
 > **Skill development:** 2024.04.18. - 2024.04.20.
+=======
+> **Skill development:** 2024.04.18. - 2024.04.20.<br>
+>>>>>>> 0638f670f1711f9d5e748a7cca0f33538eaee49e
 > **Computation:** 2024.04.21.
 
 
@@ -32,7 +36,10 @@ My journey as a professional software engineer taught me that technical skills a
 |   [@Hannah-Moon](https://github.com/Hannah-Moon)   |   
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 0638f670f1711f9d5e748a7cca0f33538eaee49e
 ---
 ## Tools 🛠️
 
