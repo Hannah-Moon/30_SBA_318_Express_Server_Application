@@ -15,7 +15,7 @@ My journey as a professional software engineer taught me that technical skills a
 </div>
 
 ## Development Time
-> **Skill development:** 2024.04.18. - 2024.04.10.<br>
+> **Skill development:** 2024.04.18. - 2024.04.20.<br>
 > **Computation:** 2024.04.21.
 
 
