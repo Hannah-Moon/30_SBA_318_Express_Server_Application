@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "category": "technical",
+        "question": "Mention all the ways by which we can include the CSS code in an HTML code.",
+        "point": "3"
+    },
+    {
+        "id": 2,
+        "category": "technical",
+        "question": "Explain in brief, what is meant by the term Semantic Elements in HTML.",
+        "point": "3"
+    },
+    {
+        "id": 3,
+        "category": "technical",
+        "question": "Describe tags, attributes, and elements in HTML.",
+        "point": "3"
+    },
+    {
+        "id": 4,
+        "category": "technical",
+        "question": "What is JavaScript? Explain any four libraries used in JavaScript.",
+        "point": "3"
+    },
+    {
+        "id": 5,
+        "category": "technical",
+        "question": "State the definition of the Callback function in JavaScript, and also give the code snippet as an example.",
+        "point": "3"
+    },
+    {
+        "id": 6,
+        "category": "technical",
+        "question": "Expand the term MEAN stack and MERN stack, and mention their alternatives.",
+        "point": "3"
+    },
+    {
+        "id": 7,
+        "category": "technical",
+        "question": "What is meant by scope in Angular Js? Also, define the different types.",
+        "point": "3"
+    },
+    {
+        "id": 8,
+        "category": "technical",
+        "question": "Briefly explain Directives in Angular Js.",
+        "point": "3"
+    },
+    {
+        "id": 9,
+        "category": "technical",
+        "question": "What are the features of Node Js? Also, mention why it is a single-threaded framework.",
+        "point": "3"
+    },
+    {
+        "id": 10,
+        "category": "technical",
+        "question": "Define and expand the term NPM. Why do we use NPM with Node.Js?",
+        "point": "3"
+    },
+    {
+        "id": 11,
+        "category": "technical",
+        "question": "What is CORS? How to include CORS in Express.Js?",
+        "point": "3"
+    },
+    {
+        "id": 12,
+        "category": "technical",
+        "question": "What is meant by the term “Replication” in MongoDB?",
+        "point": "3"
+    },
+    {
+        "id": 13,
+        "category": "technical",
+        "question": "Mention the ways by which we can create a new database in PostgreSQL.",
+        "point": "3"
+    },
+    {
+        "id": 14,
+        "category": "technical",
+        "question": "What is the difference between the WHERE clause and the HAVING clause?",
+        "point": "3"
+    },
+    {
+        "id": 15,
+        "category": "technical",
+        "question": "Define RDBMS. How do RDBMS and DBMS differ from each other?",
+        "point": "3"
+    }
+]

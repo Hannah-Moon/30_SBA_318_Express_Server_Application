@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "category": "behavior",
+        "question": "What are your greatest strengths?",
+        "point": "1"
+    },
+    {
+        "id": 2,
+        "category": "behavior",
+        "question": "What are your greatest weaknesses?",
+        "point": "1"
+    },
+    {
+        "id": 3,
+        "category": "behavior",
+        "question": "Why are you leaving (or did you leave) this position?",
+        "point": "1"
+    },
+    {
+        "id": 4,
+        "category": "behavior",
+        "question": "Why should I hire you?",
+        "point": "1"
+    },
+    {
+        "id": 5,
+        "category": "behavior",
+        "question": "Aren't you overqualified for this position?",
+        "point": "1"
+    },
+    {
+        "id": 6,
+        "category": "behavior",
+        "question": "Why do you want to work at our company?",
+        "point": "1"
+    },
+    {
+        "id": 7,
+        "category": "behavior",
+        "question": "Why have you been out of work so long?",
+        "point": "1"
+    },
+    {
+        "id": 8,
+        "category": "behavior",
+        "question": "What good IT trends have you read lately?",
+        "point": "1"
+    },
+    {
+        "id": 9,
+        "category": "behavior",
+        "question": "Have you been absent from work more than a few days in any previous position?",
+        "point": "1"
+    },
+    {
+        "id": 10,
+        "category": "behavior",
+        "question": "What changes would you make if you came on board?",
+        "point": "1"
+    },
+    {
+        "id": 11,
+        "category": "behavior",
+        "question": "I'm concerned that you don't have as much experience as we'd like in…",
+        "point": "1"
+    },
+    {
+        "id": 12,
+        "category": "behavior",
+        "question": "How do you feel about working nights and weekends?",
+        "point": "1"
+    },
+    {
+        "id": 13,
+        "category": "behavior",
+        "question": "Are you willing to relocate or travel?",
+        "point": "1"
+    },
+    {
+        "id": 14,
+        "category": "behavior",
+        "question": "Why have you had so many jobs?",
+        "point": "1"
+    },
+    {
+        "id": 15,
+        "category": "behavior",
+        "question": "What would you do if a fellow executive on your own corporate level wasn't pulling his/her weight…and this was hurting your department?",
+        "point": "1"
+    },
+    {
+        "id": 16,
+        "category": "behavior",
+        "question": "You've been with your firm a long time. Won't it be hard switching to a new company?",
+        "point": "1"
+    },
+    {
+        "id": 17,
+        "category": "behavior",
+        "question": "May I contact your present employer for a reference?",
+        "point": "1"
+    },
+    {
+        "id": 18,
+        "category": "behavior",
+        "question": "Give me an example of your creativity (analytical skill…managing ability, etc.)",
+        "point": "1"
+    },
+    {
+        "id": 19,
+        "category": "behavior",
+        "question": "Where could you use some improvement?",
+        "point": "1"
+    },
+    {
+        "id": 20,
+        "category": "behavior",
+        "question": "Have you considered starting your own business?",
+        "point": "1"
+    },
+    {
+        "id": 21,
+        "category": "behavior",
+        "question": "The Salary Question: How much money do you want?",
+        "point": "1"
+    },
+    {
+        "id": 22,
+        "category": "behavior",
+        "question": "What was the toughest part of your last job?",
+        "point": "1"
+    },
+    {
+        "id": 23,
+        "category": "behavior",
+        "question": "What would you do if I told you that I thought you were giving a very poor interview today?",
+        "point": "1"
+    },    
+    {
+        "id": 24,
+        "category": "behavior",
+        "question": "Give an example of a time when you were asked to accomplish a task but weren't given enough information. How did you resolve this problem?",
+        "point": "1"
+    },    
+    {
+        "id": 25,
+        "category": "behavior",
+        "question": "Tell me about a situation that frustrated you at work.",
+        "point": "1"
+    }
+]

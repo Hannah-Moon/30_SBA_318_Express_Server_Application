@@ -1,0 +1,268 @@
+[
+    {
+        "id": 1,
+        "category": "questionToAsk",
+        "subject": "Questions about the specific job",
+        "question": "What are your expectations for me in this role?",
+        "point": "2"
+    }, 
+    {
+        "id": 2,
+        "category": "questionToAsk",
+        "subject": "Questions about the specific job",
+        "question": "What is the most important thing I should accomplish in the first 90 days??",
+        "point": "2"
+    }, 
+    {
+        "id": 3,
+        "category": "questionToAsk",
+        "subject": "Questions about the specific job",
+        "question": "What is the performance review process like here? How often would I be formally reviewed?",
+        "point": "2"
+    }, 
+    {
+        "id": 4,
+        "category": "questionToAsk",
+        "subject": "Questions about the specific job",
+        "question": "What metrics or goals will my performance be evaluated against?",
+        "point": "2"
+    }, 
+    {
+        "id": 5,
+        "category": "questionToAsk",
+        "subject": "Questions about the specific job",
+        "question": "What are the most immediate projects that I would take on?",
+        "point": "2"
+    }, 
+    {
+        "id": 6,
+        "category": "questionToAsk",
+        "subject": "Questions about the specific job",
+        "question": "How long before I will be… [meeting with clients, have responsibility for my own accounts, interacting with other departments, etc.]?",
+        "point": "2"
+    }, 
+    {
+        "id": 7,
+        "category": "Questions about the team",
+        "subject": "Questions about the specific job",
+        "question": "What types of skills is the team missing that you’re looking to fill with a new hire?",
+        "point": "2"
+    }, 
+    {
+        "id": 8,
+        "category": "Questions about the team",
+        "subject": "Questions about the specific job",
+        "question": "What are the biggest challenges that I might face in this position?",
+        "point": "2"
+    }, 
+    {
+        "id": 9,
+        "category": "Questions about the team",
+        "subject": "Questions about the specific job",
+        "question": "Do you expect my main responsibilities in this position to change in the next six months to a year?",
+        "point": "2"
+    }, 
+    {
+        "id": 10,
+        "category": "Questions about the team",
+        "subject": "Questions about the specific job",
+        "question": "Can you tell me about the team I’ll be working with?",
+        "point": "2"
+    }, 
+    {
+        "id": 11,
+        "category": "Questions about the team",
+        "subject": "Questions about the specific job",
+        "question": "Who will I work with most closely? What other departments or units will I interact with?",
+        "point": "2"
+    }, 
+    {
+        "id": 12,
+        "category": "Questions about the team",
+        "subject": "Questions about the specific job",
+        "question": "Can you tell me about my direct reports? What are their strengths and the team’s biggest challenges?",
+        "point": "2"
+    }, 
+    {
+        "id": 13,
+        "category": "questionToAsk",
+        "subject": "Questions for your potential boss",
+        "question": "How long have you been at the company?",
+        "point": "2"
+    }, 
+    {
+        "id": 14,
+        "category": "questionToAsk",
+        "subject": "Questions for your potential boss",
+        "question": "How long have you been a manager?",
+        "point": "2"
+    }, 
+    {
+        "id": 15,
+        "category": "questionToAsk",
+        "subject": "Questions for your potential boss",
+        "question": "What’s your favorite part of working here?",
+        "point": "2"
+    }, 
+    {
+        "id": 16,
+        "category": "questionToAsk",
+        "subject": "Questions about the company",
+        "question": "What are the current goals that the company is focused on, and how does this team work to support hitting those goals?",
+        "point": "2"
+    }, 
+    {
+        "id": 17,
+        "category": "questionToAsk",
+        "subject": "Questions about the company",
+        "question": "What gets you most excited about the company’s future?",
+        "point": "2"
+    }, 
+    {
+        "id": 18,
+        "category": "questionToAsk",
+        "subject": "Questions about the company",
+        "question": "How would you describe the company’s values?",
+        "point": "2"
+    }, 
+    {
+        "id": 19,
+        "category": "questionToAsk",
+        "subject": "Questions about the company",
+        "question": "How has the company changed over the last few years?",
+        "point": "2"
+    }, 
+    {
+        "id": 20,
+        "category": "questionToAsk",
+        "subject": "Questions about the company",
+        "question": "What are the companys plans for growth and development?",
+        "point": "2"
+    }, 
+    {
+        "id": 21,
+        "category": "questionToAsk",
+        "subject": "Questions about the culture",
+        "question": "How do you typically onboard employees?",
+        "point": "2"
+    }, 
+    {
+        "id": 22,
+        "category": "questionToAsk",
+        "subject": "Questions about the culture",
+        "question": "What do new employees typically find surprising after they start?",
+        "point": "2"
+    }, 
+    {
+        "id": 23,
+        "category": "questionToAsk",
+        "subject": "Questions about the culture",
+        "question": "Is there anything that I should read before starting that would help me have a shared understanding with my colleagues?",
+        "point": "2"
+    }, 
+    {
+        "id": 24,
+        "category": "questionToAsk",
+        "subject": "Questions about the culture",
+        "question": "What’s your favorite office tradition?",
+        "point": "2"
+    }, 
+    {
+        "id": 25,
+        "category": "questionToAsk",
+        "subject": "Questions about the culture",
+        "question": "What do you and the team usually do for lunch?",
+        "point": "2"
+    }, 
+    {
+        "id": 26,
+        "category": "questionToAsk",
+        "subject": "Questions about the culture",
+        "question": "Do you ever do joint events with other departments or teams?",
+        "point": "2"
+    }, 
+    {
+        "id": 27,
+        "category": "questionToAsk",
+        "subject": "Questions about the culture",
+        "question": "What’s different about working here than anywhere else you’ve worked?",
+        "point": "2"
+    }, 
+    {
+        "id": 28,
+        "category": "questionToAsk",
+        "subject": "Questions about the culture",
+        "question": "How has the company changed since you joined?",
+        "point": "2"
+    }, 
+    {
+        "id": 29,
+        "category": "questionToAsk",
+        "subject": "Questions about professional development, career paths, and future opportunities",
+        "question": "What learning and development opportunities will I have in this role?",
+        "point": "2"
+    }, 
+    {
+        "id": 30,
+        "category": "questionToAsk",
+        "subject": "Questions about professional development, career paths, and future opportunities",
+        "question": "How does the team I wll be part of continue to grow professionally?",
+        "point": "2"
+    }, 
+    {
+        "id": 31,
+        "category": "questionToAsk",
+        "subject": "Questions about professional development, career paths, and future opportunities",
+        "question": "Are there examples of a career path beginning with this position?",
+        "point": "2"
+    }, 
+    {
+        "id": 32,
+        "category": "questionToAsk",
+        "subject": "Questions about professional development, career paths, and future opportunities",
+        "question": "What are the common career paths in this department?",
+        "point": "2"
+    }, 
+    {
+        "id": 33,
+        "category": "questionToAsk",
+        "subject": "Questions about professional development, career paths, and future opportunities",
+        "question": "How are promotions typically handled?",
+        "point": "2"
+    }, 
+    {
+        "id": 34,
+        "category": "questionToAsk",
+        "subject": "Questions about professional development, career paths, and future opportunities",
+        "question": "Where have successful employees moved on to?",
+        "point": "2"
+    }, 
+    {
+        "id": 35,
+        "category": "questionToAsk",
+        "subject": "Closing questions",
+        "question": "What am I not asking you that I should?",
+        "point": "2"
+    },
+    {
+        "id": 36,
+        "category": "questionToAsk",
+        "subject": "Closing questions",
+        "question": "Is there anything else I can provide you with that would be helpful?",
+        "point": "2"
+    },
+    {
+        "id": 37,
+        "category": "questionToAsk",
+        "subject": "Closing questions",
+        "question": "Is there anything I clarify for you about my qualifications?",
+        "point": "2"
+    },
+    {
+        "id": 38,
+        "category": "questionToAsk",
+        "subject": "Closing questions",
+        "question": "What are the next steps in the hiring process?",
+        "point": "2"
+    }
+]
