@@ -28,7 +28,7 @@ My journey as a professional software engineer taught me that technical skills a
 
 |      Hannah Moon       |                                                                                                                        
 | :------------------------------------------------------------------------------: |  
-|   <img width="160px" src="assets/Hannah.jpeg"/>    |  
+|   <img width="160px" src="assets/Hannah_V01.jpg"/>    |  
 |   [@Hannah-Moon](https://github.com/Hannah-Moon)   |   
 
 
