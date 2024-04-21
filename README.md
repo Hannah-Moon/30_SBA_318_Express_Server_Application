@@ -9,7 +9,7 @@
 <div align="center">
 <img width="200" alt="image" src="assets/Interviviing.jpeg">
 
-<h5>
+<h5 align="left">
 My journey as a professional software engineer taught me that technical skills are just one piece of the puzzle. To prepare for upcoming job interviews, I created Interviviing, tailored to my shared experiences with my friends. Interviviing would help me and my friends prepare for the tough interview questions. I hope that I will tackle interviews confidently.
 </h5>
 </div>
