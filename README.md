@@ -3,12 +3,14 @@
 </h2>
 
 <h3 align="center">
-  Intervieweringo
+  Interviviing: From Tech Skills to Interview Brilliance!
 </h3>
+<h5>
+My journey as a professional software engineer taught me that technical skills are just one piece of the puzzle. To prepare for upcoming job interviews, I created Interviviing, tailored to my shared experiences with my friends. Interviviing would help me and my friends prepare for the tough interview questions. I hope that I will confidently tackle interviews.
+</h5>
 
 <div align="center">
-<img width="700" alt="image" src="assets/Interviviing.jpeg">
-
+<img width="300" alt="image" src="assets/Interviviing.jpeg">
 
 </div>
 
