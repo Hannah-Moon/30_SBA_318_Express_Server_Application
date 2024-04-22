@@ -8,6 +8,7 @@
 
 <div align="center">
 <img width="200" alt="image" src="assets/Interviviing.jpeg">
+<img width="500" alt="image" src="assets/indexhtml_screenshot.png">
 
 <h5 align="left">
 My journey as a professional software engineer taught me that technical skills are just one piece of the puzzle. To prepare for upcoming job interviews, I created Interviviing, tailored to my shared experiences with my friends. Interviviing would help me and my friends prepare for the tough interview questions. I hope that I will tackle interviews confidently.
@@ -75,7 +76,7 @@ My journey as a professional software engineer taught me that technical skills a
 |:white_check_mark:| Utilize reasonable data structuring practices. | 5% |
 |:white_check_mark:| Create GET routes for all data that should be exposed to the client. | 5% |
 |:white_check_mark:| Create POST routes for data, as appropriate. At least one data category should allow for client creation via a POST request. | 5% |
-|:white_check_mark:| Create PATCH or PUT routes for data, as appropriate. At least one data category should allow for client manipulation via a PATCH or PUT request. | 5% |
+|:white_check_mark:| Create PATCH or PUTgit asd routes for data, as appropriate. At least one data category should allow for client manipulation via a PATCH or PUT request. | 5% |
 |:white_check_mark:| Include query parameters for data filtering, where appropriate. At least one data category should allow for additional filtering through the use of query parameters. Note: DO NOT use API keys; this makes it more difficult for instructors to grade | 5% |
 |:white_check_mark:|finished projects efficiently. | 5% |
 |:white_check_mark:| Utilize route parameters, where appropriate. | 5% |
