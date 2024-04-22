@@ -61,7 +61,7 @@ My journey as a professional software engineer taught me that technical skills a
 ---
 ## Key Feature 📦
 
-> **- Users can input their answers using the structured STAR method.**
+> **- Users can input their answers using the structured STAR method.** <br>
 > **- Users can download their answers in PDF format for personal reference.**
 <img width="500" alt="image" src="assets/STAR.jpeg">
 - Image credit: [Side Up Lift](https://slideuplift.com/powerpoint-templates/star-interview-05/).
