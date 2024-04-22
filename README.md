@@ -62,8 +62,9 @@ My journey as a professional software engineer taught me that technical skills a
 ---
 ## Key Feature 📦
 
-### ⭐️ TBA
-- TBA
+### ⭐️ Users can input their answers using the structured STAR method.
+### ⭐️ Users can download their answers in PDF format for personal reference.
+
 
 ---
 ## Requirement ✅
