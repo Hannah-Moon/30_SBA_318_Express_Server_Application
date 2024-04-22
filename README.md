@@ -54,19 +54,17 @@ My journey as a professional software engineer taught me that technical skills a
 ---
 ## Source question 💬
 
-> **Behavioral questions** : Various resource <br>
-> **Technical questions** :  [Intellipart: Full Stack Developer Interview Questions By Naveen](https://intellipaat.com/blog/interview-question/full-stack-developer-interview-questions/#12) <br>
-> **Questions to ask** : [Havard Business Review: 38 Smart Questions to Ask in a Job Interview
-by Amy Gallo] (https://hbr.org/2022/05/38-smart-questions-to-ask-in-a-job-interview?ab=hero-subleft-2)
+> **- Behavioral questions** : Various resource <br>
+> **- Technical questions** :  [Intellipart: Full Stack Developer Interview Questions By Naveen](https://intellipaat.com/blog/interview-question/full-stack-developer-interview-questions/#12) <br>
+> **- Questions to ask** : [Havard Business Review: 38 Smart Qeustions to ask in a Job Interview by Amy Gallo](https://hbr.org/2022/05/38-smart-questions-to-ask-in-a-job-interview?ab=hero-subleft-2)
 
 ---
 ## Key Feature 📦
 
-> **Users can input their answers using the structured STAR method.**
-> **Users can download their answers in PDF format for personal reference.**
+> **- Users can input their answers using the structured STAR method.**
+> **- Users can download their answers in PDF format for personal reference.**
 <img width="500" alt="image" src="assets/STAR.jpeg">
-- Image credit: [Slideuplift](https://slideuplift.com/powerpoint-templates/star-interview-05/)
-
+- Image credit: [Slide Up Lift](https://slideuplift.com/powerpoint-templates/star-interview-05/)
 
 ---
 ## Requirement ✅
