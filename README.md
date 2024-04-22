@@ -67,32 +67,30 @@ My journey as a professional software engineer taught me that technical skills a
 ---
 ## Requirement ✅
 
-<ul><li>[x]</li></ul>
-
 | Status    | Requirement                  | Weight    | 
 |-----------|------------------------------|-----------|
-|<ul><li>[x]</li></ul>| Create and use at least two pieces of custom middleware.| 5% |
-|<ul><li>[x]</li></ul>| Create and use error-handling middleware. | 5% |
-|<ul><li>[x]</li></ul>| Use at least three different data categories (e.g., users, posts, or comments). | 5% |
-|<ul><li>[x]</li></ul>| Utilize reasonable data structuring practices. | 5% |
-|<ul><li>[x]</li></ul>| Create GET routes for all data that should be exposed to the client. | 5% |
-|<ul><li>[x]</li></ul>| Create POST routes for data, as appropriate. At least one data category should allow for client creation via a POST request. | 5% |
-|<ul><li>[x]</li></ul>| Create PATCH or PUT routes for data, as appropriate. At least one data category
+|:white_check_mark:| Create and use at least two pieces of custom middleware.| 5% |
+|:white_check_mark:| Create and use error-handling middleware. | 5% |
+|:white_check_mark:| Use at least three different data categories (e.g., users, posts, or comments). | 5% |
+|:white_check_mark:| Utilize reasonable data structuring practices. | 5% |
+|:white_check_mark:| Create GET routes for all data that should be exposed to the client. | 5% |
+|:white_check_mark:| Create POST routes for data, as appropriate. At least one data category should allow for client creation via a POST request. | 5% |
+|:white_check_mark:| Create PATCH or PUT routes for data, as appropriate. At least one data category
 should allow for client manipulation via a PATCH or PUT request. | 5% |
-|<ul><li>[x]</li></ul>| Include query parameters for data filtering, where appropriate. At least one data category should allow for additional filtering through the use of query parameters. Note: DO NOT use API keys; this makes it more difficult for instructors to grade
+|:white_check_mark:| Include query parameters for data filtering, where appropriate. At least one data category should allow for additional filtering through the use of query parameters. Note: DO NOT use API keys; this makes it more difficult for instructors to grade
 finished projects efficiently. | 5% |
-|<ul><li>[x]</li></ul>| Utilize route parameters, where appropriate. | 5% |
-|<ul><li>[x]</li></ul>| Adhere to the guiding principles of REST. | 10% |
-| - [x]     | Create and render at least one view using a view template and template engine. Thiscan be a custom template engine or a third-party engine. If you are stuck on how to approach this, think about ways you could render the
+|:white_check_mark:| Utilize route parameters, where appropriate. | 5% |
+|:white_check_mark:| Adhere to the guiding principles of REST. | 10% |
+| :white_check_mark:     | Create and render at least one view using a view template and template engine. Thiscan be a custom template engine or a third-party engine. If you are stuck on how to approach this, think about ways you could render the
 current state of your API's data for easy viewing.  | 8% |
-| - [x]     | Adhere to the guiding principles of REST. | 2% |
-| - [x]     | Use simple CSS to style the rendered views. Note: This is not a test of design; it is a test of serving static files using Express. The CSS can be very simple. | 3% |
-| - [x]     | Utilize reasonable code organization practices. | 5% |
-| - [x]     | Ensure that the program runs without errors (comment out things that do not work,
+| :white_check_mark:     | Adhere to the guiding principles of REST. | 2% |
+| :white_check_mark:     | Use simple CSS to style the rendered views. Note: This is not a test of design; it is a test of serving static files using Express. The CSS can be very simple. | 3% |
+| :white_check_mark:     | Utilize reasonable code organization practices. | 5% |
+| :white_check_mark:     | Ensure that the program runs without errors (comment out things that do not work,
 and explain your blockers - you can still receive partial credit). | 10% |
-| - [x]     | Commit frequently to the git repository. | 5% |
-| - [x]     | Include a README file that contains a description of your application. | 2% |
-| - [x]     | Level of effort displayed in creativity, presentation, and user experience. | 5% |
+| :white_check_mark:     | Commit frequently to the git repository. | 5% |
+| :white_check_mark:     | Include a README file that contains a description of your application. | 2% |
+| :white_check_mark:     | Level of effort displayed in creativity, presentation, and user experience. | 5% |
 
 
 ---
