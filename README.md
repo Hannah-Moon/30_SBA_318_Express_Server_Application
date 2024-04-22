@@ -55,7 +55,7 @@ My journey as a professional software engineer taught me that technical skills a
 ## Source question 💬
 
 > **Behavioral questions** : Various resource <br>
-> **Technical questions** :  [Intellipart: Full Stack Developer Interview Questions By Naveen](https://intellipaat.com/blog/interview-question/full-stack-developer-interview-questions/#12 <br>
+> **Technical questions** :  [Intellipart: Full Stack Developer Interview Questions By Naveen](https://intellipaat.com/blog/interview-question/full-stack-developer-interview-questions/#12) <br>
 > **Questions to ask** : [Havard Business Review: 38 Smart Questions to Ask in a Job Interview
 by Amy Gallo](https://hbr.org/2022/05/38-smart-questions-to-ask-in-a-job-interview?ab=hero-subleft-2).
 
