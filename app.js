@@ -1,7 +1,8 @@
+// ---------------[ Step 01: Set up ]
 const express = require("express");
 const fs = require ("fs") 
-const PORT = process.env.PORT || "3000";       
 const app = express(); 
+const PORT = process.env.PORT || "3000";       
 
 
 // ---------------[ middleware ]
@@ -26,15 +27,17 @@ app.get("/technical/data", (req, res) => {
 });
 
 // Questions to ask
-app.get("/questionstoask/data", (req, res) => {
+app.get("/questiontoask/data", (req, res) => {
     fs.readFile(__dirname+'/data/questiontoask.json', 'utf8', (err, data)=> {
         if (err) res.status(500).send("Server error! Check your server!")
         res.json(JSON.parse(data))
     })
 });
 
+// ---------------[ Step 03: Set up Route ]
+
 app.get("/behavioral", (req, res) => {
-    res.sendFile(__dirname+'/public/index.html')
+    res.sendFile(__dirname+'/public/behavioral.html')
 })
 
 
