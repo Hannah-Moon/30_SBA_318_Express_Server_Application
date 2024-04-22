@@ -80,13 +80,11 @@ My journey as a professional software engineer taught me that technical skills a
 |:white_check_mark:|finished projects efficiently. | 5% |
 |:white_check_mark:| Utilize route parameters, where appropriate. | 5% |
 |:white_check_mark:| Adhere to the guiding principles of REST. | 10% |
-|:white_check_mark:| Create and render at least one view using a view template and template engine. Thiscan be a custom template engine or a third-party engine. If you are stuck on how to approach this, think about ways you could render the
-current state of your API's data for easy viewing.  | 8% |
+|:white_check_mark:| Create and render at least one view using a view template and template engine. Thiscan be a custom template engine or a third-party engine. If you are stuck on how to approach this, think about ways you could render the current state of your API's data for easy viewing.  | 8% |
 |:white_check_mark:| Adhere to the guiding principles of REST. | 2% |
 |:white_check_mark:| Use simple CSS to style the rendered views. Note: This is not a test of design; it is a test of serving static files using Express. The CSS can be very simple. | 3% |
 |:white_check_mark:| Utilize reasonable code organization practices. | 5% |
-|:white_check_mark:| Ensure that the program runs without errors (comment out things that do not work,
-and explain your blockers - you can still receive partial credit). | 10% |
+|:white_check_mark:| Ensure that the program runs without errors (comment out things that do not work, and explain your blockers - you can still receive partial credit). | 10% |
 |:white_check_mark:| Commit frequently to the git repository. | 5% |
 |:white_check_mark:| Include a README file that contains a description of your application. | 2% |
 |:white_check_mark:| Level of effort displayed in creativity, presentation, and user experience. | 5% |
