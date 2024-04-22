@@ -55,8 +55,8 @@ My journey as a professional software engineer taught me that technical skills a
 ## Source question 💬
 
 > **Behavioral questions** : Various resource <br>
-> **Technical questions** : https://intellipaat.com/blog/interview-question/full-stack-developer-interview-questions/#12 <br>
-> **Questions to ask** : https://hbr.org/2022/05/38-smart-questions-to-ask-in-a-job-interview?ab=hero-subleft-2
+> **Technical questions** : [IntelliPaat](https://intellipaat.com/blog/interview-question/full-stack-developer-interview-questions/#12) <br>
+> **Questions to ask** : [Havard Business Review](https://hbr.org/2022/05/38-smart-questions-to-ask-in-a-job-interview?ab=hero-subleft-2)
 
 
 ---
@@ -64,6 +64,8 @@ My journey as a professional software engineer taught me that technical skills a
 
 ### ⭐️ Users can input their answers using the structured STAR method.
 ### ⭐️ Users can download their answers in PDF format for personal reference.
+<img width="500" alt="image" src="assets/STAR.jpeg">
+- Image credit: [https://slideuplift.com/](https://slideuplift.com/powerpoint-templates/star-interview-05/)
 
 
 ---
